@@ -1,0 +1,49 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[turkish]{babel}
+\usepackage{array}
+\usepackage{geometry}
+\geometry{top=2.5cm, bottom=2.5cm, left=3cm, right=3cm}
+
+\begin{document}
+
+\begin{center}
+    \Large\textbf{TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ}\\[1cm]
+    \Large\textbf{ORTAK EĞİTİM}\\[0.5cm]
+    \Large\textbf{DÖNEM SONU ÖĞRENCİ RAPORU}\\[2cm]
+\end{center}
+
+\renewcommand{\arraystretch}{1.8}
+\begin{tabular}{|>{\raggedright\arraybackslash}p{5cm}|p{10cm}|}
+    \hline
+    \textbf{Dönem} & 2024 -- 2025 Yaz \\
+    \hline
+    \textbf{Adı Soyadı} & Nisa Naz Keleşoğlu \\
+    \hline
+    \textbf{Öğrenci No} & 231101040 \\
+    \hline
+    \textbf{Bölümü} & Bilgisayar Mühendisliği \\
+    \hline
+    \textbf{Akademik Danışman} & Çiğdem Avcı \\
+    \hline
+    \textbf{E-posta} & nkelesoglu@etu.edu.tr \\
+    \hline
+    \textbf{Öğrenci İmzası} & \\
+    \hline
+    \textbf{İşyeri Adı} & Havelsan Hava Elektronik Sanayi ve Ticaret A.Ş. \\
+    \hline
+    \textbf{Adresi} & Mustafa Kemal, Şht. Öğretmen Şenay Aybüke Y \\
+    \hline
+    \textbf{Şehir} & Ankara \\
+    \hline
+    \textbf{Telefon} & 0312 688 88 88 \\
+    \hline
+    \textbf{Web} & \texttt{https://www.havelsan.com.tr/} \\
+    \hline
+    \textbf{İşyeri Amiri} & Mustafa Karasolak \\
+    \hline
+    \textbf{İşyeri Amiri İmzası} & \\
+    \hline
+\end{tabular}
+
+\end{document}
